@@ -7,6 +7,8 @@
   Python 3.0
 
   <h2>Instructions:</h2>
-  1. Open command prompt.
-  2. <code>python abode1.0.py username</code>
+  <ul>
+    <li>Open command prompt.</li>
+    <li><code>python abode1.0.py username</code></li>
+  </ul>
 </p>
