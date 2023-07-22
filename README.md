@@ -10,5 +10,6 @@
   <ul>
     <li>Open command prompt.</li>
     <li>Type: <code>python abode1.0.py username</code></li>
+    <li>Follow instructions.</li>
   </ul>
 </p>
